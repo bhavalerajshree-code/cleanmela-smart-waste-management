@@ -1,11 +1,3 @@
-# cleanmela-smart-waste-management
-AI-powered IoT waste management system using ESP8266 and ultrasonic sensors for real-time garbage monitoring, prediction, smart alerts, and heatmap analytics.
-# CleanMela – AI-Based Smart Waste Management System
-
-CleanMela is an AI-powered IoT waste management system that provides real-time garbage monitoring, smart alerts, and heatmap analytics for efficient waste collection.
-
-## Live Demo
-🔗 [View Project](https://madocks.ai/raj/index.php)
 
 ## Features
 - Real-time Garbage Level Detection
@@ -37,6 +29,14 @@ CleanMela is an AI-powered IoT waste management system that provides real-time g
 - Mobile Application
 - Solar Powered Dustbins
 - Advanced AI Analytics
+## 📷 Screenshots
+<img width="1179" height="789" alt="IMG_8438" src="https://github.com/user-attachments/assets/58435a45-840a-49ea-a365-643f81ea2e7e" />
+
+<img width="1179" height="806" alt="IMG_8442" src="https://github.com/user-attachments/assets/4b8aa0ab-52ae-4646-9088-d419f45a4532" />
+
+<img width="1179" height="793" alt="IMG_8440" src="https://github.com/user-attachments/assets/520f03a7-5a8f-4288-9806-041f6b91151e" />
+
+<img width="1179" height="810" alt="IMG_8439" src="https://github.com/user-attachments/assets/cd123034-3cff-43f8-b767-3d42e8e84e8e" />
 
 ## Author
 Rajashree Bhavale
